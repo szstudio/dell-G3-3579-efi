@@ -7,14 +7,23 @@ http://bbs.sz2016.com/forum.php?mod=viewthread&tid=203&extra=page%3D1  论坛完
 电脑配置：
 
 电脑型号        戴尔 G3 3579 笔记本电脑
+
 处理器          英特尔 Core i7-8750H @ 2.20GHz 六核
+
 主板            戴尔 00FK8Y ( HM370 芯片组 )
+
 主显卡          Nvidia GeForce GTX 1060 with Max-Q Design ( 6 GB / 戴尔 )  （黑苹果无解无法驱动）
+
 内存            16 GB ( 金士顿 DDR4 2666MHz )
+
 主硬盘          UNSPC256AKMM ( 256 GB / 固态硬盘 )
+
 显示器          友达 AUO63ED ( 15.5 英寸  )
+
 声卡            瑞昱  @ 英特尔 High Definition Audio 控制器
+
 无线网卡        英特尔 Wireless-AC 9560  （无法驱动，改用USB无线网卡）
+
   
 主板型号        戴尔 00FK8Y
 芯片组          HM370 芯片组
